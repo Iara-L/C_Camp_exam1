@@ -1,0 +1,11 @@
+3.1)	jobs
+
+3.2)	mkdir MMS\ C\ camp
+		cp 
+
+3.3)	chmod u-777
+		chmod g=r, g=x
+		chmod o=r
+
+3.4)	wc -l source1.c > file.txt
+		wc -l source1.c >> file.txt
